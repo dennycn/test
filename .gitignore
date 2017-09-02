@@ -1,0 +1,7 @@
+*.o
+*.ncb
+*.suo
+Debug/
+*.user
+*.exe
+a.out
